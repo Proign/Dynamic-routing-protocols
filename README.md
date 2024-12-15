@@ -149,10 +149,13 @@
 Проверим таблицу маршрутов на каждом маршрутизаторе:
 
 **2600A**:
+
 ![2600A ip protocols](https://github.com/Proign/Dynamic-routing-protocols/blob/main/screenshots/2600a-ospf-route.PNG)
 
 **2600B**:
+
 ![2600B ip protocols](https://github.com/Proign/Dynamic-routing-protocols/blob/main/screenshots/2600b-ospf-route.PNG)
 
 **2600C**:
+
 ![2600C ip protocols](https://github.com/Proign/Dynamic-routing-protocols/blob/main/screenshots/2600c-ospf-route.PNG)
