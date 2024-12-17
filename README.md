@@ -58,6 +58,7 @@
 
 ## Отладка
 На 2600A используем команду `debug ip rip` чтобы увидеть апдейты принимаемые и посылаемые маршрутизатором:
+
 ![2600A debug ip rip](https://github.com/Proign/Dynamic-routing-protocols/blob/main/screenshots/2600a-debug-ip-rip.PNG)
 
 Выключите отладку с помощью `no debug ip rip` или `undebug all`.
