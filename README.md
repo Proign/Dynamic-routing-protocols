@@ -50,10 +50,15 @@
 Выведем IP-таблицы, обращая внимания на записи, помеченные R. Они - результат работы протокола RIP.
 
 ## 2600A
+
 ![2600A ip route](https://github.com/Proign/Dynamic-routing-protocols/blob/main/screenshots/2600a-ip-route.PNG)
+
 ## 2600B
+
 ![2600B ip route](https://github.com/Proign/Dynamic-routing-protocols/blob/main/screenshots/2600b-ip-route.PNG)
+
 ## 2600C
+
 ![2600C ip route](https://github.com/Proign/Dynamic-routing-protocols/blob/main/screenshots/2600c-ip-route.PNG)
 
 ## Отладка
@@ -65,6 +70,7 @@
 
 ## Состояние таймеров протокола
 Состояние таймеров протокола можно увидеть с помощью `show ip protocols`:
+
 ![2600A ip protocols](https://github.com/Proign/Dynamic-routing-protocols/blob/main/screenshots/2600a-ip-protocols.PNG)
 
 Обратим внимание, что RIP посылает обновления каждые 30 сек, а его административное расстояние равно 120.
